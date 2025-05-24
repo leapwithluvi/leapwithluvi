@@ -33,5 +33,5 @@ Welcome to my GitHub profile! I’m a vocational high school student with a stro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapwithluvi&theme=apprentice)
 
 ---
-
-![snake animation](https://github.com/leapwithluvi/leapwithluvi/blob/output/github-contribution-grid-snake2.svg)
+<!-- snake -->
+<img src="https://raw.githubusercontent.com/leapwithluvi/leapwithluvi/output/snake.svg" alt="Snake animation" />
