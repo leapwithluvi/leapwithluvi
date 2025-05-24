@@ -20,19 +20,18 @@ Welcome to my GitHub profile! I’m a vocational high school student with a stro
 #### 📚 Education
 <img src="https://img.shields.io/badge/W3Schools-505050?style=for-the-badge&logo=W3Schools&logoColor=white" /> -->
 
---- 
 
 ## 🌏 Connect with me
 ![https://www.instagram.com/byl.rooks](https://img.shields.io/badge/Instagram-505050?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/luviaprilyansyahgabriel/](https://img.shields.io/badge/LinkedIn-505050?style=for-the-badge&logo=linkedin&logoColor=white) ![discordapp.com/users/952727615087706173](https://img.shields.io/badge/Discord-505050?style=for-the-badge&logo=discord&logoColor=white)
 
----
 
 ## 💻 My Github Stats
 ![leapwithluvi Github Stats](https://github-readme-stats.vercel.app/api?username=leapwithluvi&show_icons=true&theme=apprentice) 
 
----
 
 ## 🚀 My Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapwithluvi&theme=apprentice)
 
 ---
+
+![snake animation](https://github.com/leapwithluvi/leapwithluvi/blob/output/github-contribution-grid-snake2.svg)
