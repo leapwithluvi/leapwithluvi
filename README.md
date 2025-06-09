@@ -11,7 +11,7 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 
 ---
 
-## 👩‍💻 Skills
+<!-- ## 👩‍💻 Skills
 <img src="https://img.shields.io/badge/HTML5-505050?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-505050?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-505050?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-505050?style=for-the-badge&logo=python&logoColor=white" /> 
 
 <!-- <img src="https://img.shields.io/badge/Unity-505050?style=for-the-badge&logo=unity&logoColor=white" />
