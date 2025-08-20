@@ -1,7 +1,7 @@
 <!-- ## Hi, I'm Luvi 👋
 --- -->
 
-<img width="100%" src="https://64.media.tumblr.com/8a9f9f1c663730b0cd2c848d16e3053c/tumblr_ommbmm3pKp1rnbw6mo1_1280.gifv" alt="Gif Pixel">
+<img width="100%" src="https://64.media.tumblr.com/8a9f9f1c663730b0cd2c848d16e3053c/tumblr_ommbmm3pKp1rnbw6mo1_1280.gifv](https://giffiles.alphacoders.com/211/211056.gif" alt="Gif Pixel">
 <!-- <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhheXk0aXVqOWtqbzNpOWRuNG1kZms3NGM4b2NhYXd3ZHA1MGhhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lD3RImaUwxA4/giphy.gif" alt="Gif Anime"> -->
 Welcome to my GitHub profile!
 I'm a vocational high school student passionate about Artificial Intelligence, Machine Learning, and Data Science.
