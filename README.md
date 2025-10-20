@@ -47,11 +47,11 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <br clear="both" />
 
 <div align="left">
-<h3>🧩 Programming Languages</h3>
+<h3>Programming Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
 
-<h3>🌐 Web Development (Frontend, Backend & Databases)</h3>
+<h3>Web Development (Frontend, Backend & Databases)</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
@@ -66,7 +66,7 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
 <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="30" alt="mariadb logo" />
 
-<h3>🧠 Data Science, Machine Learning & AI Frameworks</h3>
+<h3>Data Science, Machine Learning & AI Frameworks</h3>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo" />
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="30" alt="keras logo" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
@@ -77,7 +77,7 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 
 <img src="https://img.shields.io/badge/Seaborn-4C9AAF?logo=python&logoColor=white&style=for-the-badge" height="30" alt="seaborn logo" />
 
-<h3>🧰 Tools & Environments</h3>
+<h3>Tools & Environments</h3>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo" />
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo" />
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo" />
@@ -89,9 +89,11 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 
-<!-- </div> -->
+</div>
 
 ###
+
+<br clear="both" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leapwithluvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
