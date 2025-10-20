@@ -36,8 +36,9 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
   <a href="https://wa.me/+6283152248722" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="itsluvi@gmail.com" target="_blank">
+<a href="mailto:itsluvi@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
   </a>
 </div>
 
@@ -48,44 +49,33 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <div align="left">
 <h3>🧩 Programming Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
 
-<h3>🌐 Web Development Frameworks</h3>
+<h3>🌐 Web Development (Frontend, Backend & Databases)</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="30" alt="tailwind logo" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo" />
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="30" alt="mariadb logo" />
 
-<h3>🧠 Machine Learning & AI Frameworks</h3>
+<h3>🧠 Data Science, Machine Learning & AI Frameworks</h3>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo" />
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="30" alt="keras logo" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="scikit-learn logo" />
-
-<h3>📊 Data Science & Visualization</h3>
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo" />
-<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge" height="30" alt="matplotlib logo" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30" alt="matplotlib logo" />
+
 <img src="https://img.shields.io/badge/Seaborn-4C9AAF?logo=python&logoColor=white&style=for-the-badge" height="30" alt="seaborn logo" />
-
-<h3>⚙️ Frameworks & Libraries</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo" />
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" />
-
-<h3>🗄️ Databases & ORMs</h3>
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo" />
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="30" alt="sequelize logo" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="30" alt="mariadb logo" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
 
 <h3>🧰 Tools & Environments</h3>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo" />
