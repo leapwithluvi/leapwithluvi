@@ -99,7 +99,7 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 
-</div>
+<!-- </div> -->
 
 ###
 
