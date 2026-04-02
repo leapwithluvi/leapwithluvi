@@ -1,4 +1,6 @@
-<h1 align="center">Luvi Aprilyansyah Gabriel</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luvi+Aprilyansyah+Gabriel" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -63,6 +65,7 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <!-- <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" /> -->
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" /> -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" alt="supabase logo" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
@@ -92,10 +95,10 @@ I'm a vocational high school student passionate about Artificial Intelligence, M
 <br clear="both" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leapwithluvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leapwithluvi&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="350" width="full" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=leapwithluvi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leapwithluvi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=leapwithluvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leapwithluvi&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=leapwithluvi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leapwithluvi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
