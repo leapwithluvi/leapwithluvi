@@ -134,9 +134,7 @@ A **Fullstack Web Developer** focused on building scalable system architectures 
   <br />
   <em>"The best way to predict the future is to invent it through code."</em>
   <br />
-  <br />
   <img src="https://img.shields.io/badge/Luvi%20Aprilyansyah%20Gabriel-2024-black?style=for-the-badge&logo=github" />
-  <br />
   <br />
   <sub>Built with high-integrity architectural principles.</sub>
 </div>
