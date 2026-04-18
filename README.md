@@ -6,11 +6,21 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=leapwithluvi.leapwithluvi&right_color=blue" />
+  <a href="https://luvi.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
   <br />
   <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Web-007ACC?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-AI/ML%20Enthusiast-navy?style=flat-square&logo=python&logoColor=white" />
 </div>
+
+###
+
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&theme=radical&no-bg=true&margin-w=4" />
+</div> -->
 
 ###
 
@@ -58,49 +68,24 @@ A **Fullstack Web Developer** focused on building scalable system architectures 
 
 <div align="left">
 
-### 💻 Programming Languages
+### 💻 Skills & Technologies
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,express,nestjs,tailwind,postgres,mysql,mongodb,supabase,prisma,vercel,git,github,postman,vite&perline=12" />
+  </a>
 </p>
 
-### 🌐 Full-Stack Ecosystem
+### 🧠 AI/ML & Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="30" />
-</p>
-
-### 💾 Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" />
-</p>
-
-### 🧠 AI/ML Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="30" />
 </p>
 
-### 🔧 Developer Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" />
-</p>
+</div>
 
 </div>
 
@@ -134,7 +119,8 @@ A **Fullstack Web Developer** focused on building scalable system architectures 
   <br />
   <em>"The best way to predict the future is to invent it through code."</em>
   <br />
-  <img src="https://img.shields.io/badge/Luvi%20Aprilyansyah%20Gabriel-2024-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge&logo=github" />
   <br />
-  <sub>Built with high-integrity architectural principles.</sub>
+  <sub>Built with high-integrity architectural principles. &copy; 2026 Luvi Aprilyansyah Gabriel</sub>
 </div>
