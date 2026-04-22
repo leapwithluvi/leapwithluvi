@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/github/followers/leapwithluvi?style=for-the-badge&color=BDE0FE&labelColor=0077B6&label=Followers" alt="GitHub followers" />
 </p>
 
-<img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 55px;" />
+<img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 70px;" />
 
 <h3>❄️ About Me</h3>
 
