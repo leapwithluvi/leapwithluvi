@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luvi+Aprilyansyah+Gabriel;Fullstack+Web+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=BDE0FE&center=true&vCenter=true&width=600&lines=Luvi+Aprilyansyah+Gabriel;Fullstack+Web+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,16 +27,16 @@
   <img src="https://img.shields.io/github/followers/leapwithluvi?style=for-the-badge&color=BDE0FE&labelColor=0077B6&label=Followers" alt="GitHub followers" />
 </p>
 
-<img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+<img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 55px;" />
 
 <h3>❄️ About Me</h3>
 
-- 🛠️ **Expertise:** Developing robust backends with NestJS and interactive frontends with Next.js.
+- 🧊 **Expertise:** Developing robust backends with NestJS and interactive frontends with Next.js.
 - 🧠 **AI/ML:** Currently diving deep into Machine Learning and Data Science to build "smarter" applications.
-- ⚡ **Philosophy:** Efficiency, code integrity, and scalability are the core of everything I build.
-- 🧩 **Problem Solver:** I enjoy breaking down complex problems into clear, practical, and maintainable solutions.
-- 🚀 **Innovation:** Exploring how AI, data, and cloud infrastructure can work together in real products.
-- 📚 **Continuous Learning:** Growing through research, hands-on projects, and open-source collaboration.
+- ❄️ **Philosophy:** Efficiency, code integrity, and scalability are the core of everything I build.
+- 🏔️ **Problem Solver:** I enjoy breaking down complex problems into clear, practical, and maintainable solutions.
+- 🏂 **Innovation:** Exploring how AI, data, and cloud infrastructure can work together in real products.
+- 🎿 **Continuous Learning:** Growing through research, hands-on projects, and open-source collaboration.
 
 <br clear="right" />
 
@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🌱 Direction</strong>
+      <strong>🏔️ Direction</strong>
       <ul>
         <li>Intelligent applications that connect data, models, and user needs</li>
         <li>High-performance system architectures and modular digital solutions</li>
@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>🔭 Current Focus</strong>
+      <strong>❄️ Current Focus</strong>
       <ul>
         <li>Advanced Web Security & Clean Architecture</li>
         <li>Machine learning integration and AI system design</li>
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<h3>🧰 Tech Glacier</h3>
+<h3>🧊 Tech Glacier</h3>
 
 <p align="center">
 <!-- Languages -->
