@@ -11,21 +11,32 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=BDE0FE&height=1&section=header" width="100%" alt="Blue divider" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="GitHub Trophies" />
+</div>
+
+
+
+
+
 <p align="center">
+
   I'm <b>Luvi</b>, a <b>Fullstack Web Developer</b> dedicated to building high-performance system architectures and exploring the intersection of <b>Artificial Intelligence (AI)</b> and web technologies. I specialize in creating scalable, secure, and modular digital solutions.
 </p>
 
+<h3 align="center">❄️ Let's Connect</h3>
 <p align="center">
   <a href="https://luvi.my.id"><img src="https://img.shields.io/badge/Portfolio-luvi.my.id-A2D2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0077B6" alt="Portfolio" /></a>
   <a href="mailto:itsluvi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-BDE0FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0077B6" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/luviaprilyansyahgabriel"><img src="https://img.shields.io/badge/LinkedIn-Connect-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B6" alt="LinkedIn" /></a>
   <a href="https://wa.me/+6283152248722"><img src="https://img.shields.io/badge/WhatsApp-Chat-CAF0F8?style=for-the-badge&logo=whatsapp&logoColor=0077B6&labelColor=FFFFFF" alt="WhatsApp" /></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leapwithluvi&style=for-the-badge&color=A2D2FF&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/leapwithluvi?style=for-the-badge&color=BDE0FE&labelColor=0077B6&label=Followers" alt="GitHub followers" />
 </p>
+
+
 
 <img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 70px;" />
 
@@ -39,6 +50,18 @@
 - 🎿 **Continuous Learning:** Growing through research, hands-on projects, and open-source collaboration.
 
 <br clear="right" />
+
+<h3>🏔️ Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/leapwithluvi/portfolio-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leapwithluvi&repo=portfolio-v2&theme=algolia&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="Portfolio V2" />
+  </a>
+  <a href="https://github.com/leapwithluvi/express-typescript-starter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leapwithluvi&repo=express-typescript-starter&theme=algolia&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="Express TS Starter" />
+  </a>
+</p>
+
 
 <h3>🏔️ What I'm Building Toward</h3>
 
@@ -118,6 +141,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leapwithluvi/leapwithluvi/output/snake.svg" alt="Snake Animation" />
+</div>
+
 
 <img src="https://i.pinimg.com/originals/23/ab/94/23ab9479b2f555bda9af1f71329ef902.gif" alt="Luvi footer" width="100%" style="border-radius: 10px;" />
 
