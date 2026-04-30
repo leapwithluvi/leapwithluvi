@@ -63,7 +63,7 @@
 </p>
 
 
-<h3>🧊 What I'm Building Toward</h3>
+<h3>🎿 What I'm Building Toward</h3>
 
 <table>
   <tr>
