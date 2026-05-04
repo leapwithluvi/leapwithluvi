@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories&bg_color=000000&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="GitHub Trophies" />
 </div>
 
 
