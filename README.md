@@ -51,7 +51,7 @@
 
 <br clear="right" />
 
-<h3>🏔️ Featured Projects</h3>
+<h3>🏂 Featured Projects</h3>
 
 <p align="center">
   <a href="https://github.com/leapwithluvi/portfolio-v2">
@@ -63,7 +63,7 @@
 </p>
 
 
-<h3>🏔️ What I'm Building Toward</h3>
+<h3>🎿 What I'm Building Toward</h3>
 
 <table>
   <tr>
