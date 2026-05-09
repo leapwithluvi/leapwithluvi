@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories&bg_color=000000&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories" alt="GitHub Trophies" />
 </div>
 
 
@@ -51,16 +51,16 @@
 
 <br clear="right" />
 
-<h3>🏂 Featured Projects</h3>
+<h3>✨ Featured Projects</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/leapwithluvi/portfolio-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leapwithluvi&repo=portfolio-v2&theme=algolia&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="Portfolio V2" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=portfolio-v2&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Portfolio V2" />
   </a>
   <a href="https://github.com/leapwithluvi/express-typescript-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leapwithluvi&repo=express-typescript-starter&theme=algolia&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8" alt="Express TS Starter" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=express-typescript-starter&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Express TS Starter" />
   </a>
-</p>
+</div>
 
 
 <h3>🎿 What I'm Building Toward</h3>
@@ -142,9 +142,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leapwithluvi/leapwithluvi/output/snake.svg" alt="Snake Animation" />
-</div>
+
 
 
 <img src="https://i.pinimg.com/originals/23/ab/94/23ab9479b2f555bda9af1f71329ef902.gif" alt="Luvi footer" width="100%" style="border-radius: 10px;" />
