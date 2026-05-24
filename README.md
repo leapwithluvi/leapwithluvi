@@ -15,10 +15,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories" alt="GitHub Trophies" />
 </div>
 
-
-
-
-
 <p align="center">
 
   I'm <b>Luvi</b>, a <b>Fullstack Web Developer</b> dedicated to building high-performance system architectures and exploring the intersection of <b>Artificial Intelligence (AI)</b> and web technologies. I specialize in creating scalable, secure, and modular digital solutions.
@@ -35,8 +31,6 @@
   <img src="https://komarev.com/ghpvc/?username=leapwithluvi&style=for-the-badge&color=A2D2FF&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/leapwithluvi?style=for-the-badge&color=BDE0FE&labelColor=0077B6&label=Followers" alt="GitHub followers" />
 </p>
-
-
 
 <img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 70px;" />
 
@@ -61,7 +55,6 @@
     <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=express-typescript-starter&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Express TS Starter" />
   </a>
 </div>
-
 
 <h3>🎿 What I'm Building Toward</h3>
 
@@ -142,9 +135,6 @@
   </tr>
 </table>
 
-
-
-
 <img src="https://i.pinimg.com/originals/23/ab/94/23ab9479b2f555bda9af1f71329ef902.gif" alt="Luvi footer" width="100%" style="border-radius: 10px;" />
 
 <div align="center">
@@ -156,5 +146,3 @@
   <br />
   <sub>Built with high-integrity architectural principles. &copy; 2026 Luvi Aprilyansyah Gabriel</sub>
 </div>
- 
- 
