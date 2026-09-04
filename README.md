@@ -48,11 +48,8 @@
 <h3>✨ Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/leapwithluvi/portfolio-v2">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=portfolio-v2&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Portfolio V2" />
-  </a>
-  <a href="https://github.com/leapwithluvi/express-typescript-starter">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=express-typescript-starter&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Express TS Starter" />
+  <a href="https://github.com/leapwithluvi/nexus-neural-orchestrator">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=nexus-neural-orchestrator&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Nexus AI" />
   </a>
 </div>
 
