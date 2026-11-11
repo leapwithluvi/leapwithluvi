@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Followers,Repositories" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leapwithluvi&theme=flat" />
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
   I'm <b>Luvi</b>, a <b>Fullstack Web Developer</b> dedicated to building high-performance system architectures and exploring the intersection of <b>Artificial Intelligence (AI)</b> and web technologies. I specialize in creating scalable, secure, and modular digital solutions.
 </p>
 
-<h3 align="center">❄️ Let's Connect</h3>
+<h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://luvi.my.id"><img src="https://img.shields.io/badge/Portfolio-luvi.my.id-A2D2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0077B6" alt="Portfolio" /></a>
   <a href="mailto:itsluvi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-BDE0FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0077B6" alt="Email" /></a>
@@ -32,33 +32,33 @@
   <img src="https://img.shields.io/github/followers/leapwithluvi?style=for-the-badge&color=BDE0FE&labelColor=0077B6&label=Followers" alt="GitHub followers" />
 </p>
 
-<img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 70px;" />
+<!-- <img src="https://i.pinimg.com/736x/09/ce/45/09ce45293f35e1b94cc20ebc2a0f9d80.jpg" align="right" width="270" alt="Luvi profile side image" style="border-radius: 10px; margin-left: 20px; margin-bottom: 48px; margin-top: 70px;" /> -->
 
-<h3>❄️ About Me</h3>
+<!-- <h3>About Me</h3>
 
-- 🧊 **Expertise:** Developing robust backends with NestJS and interactive frontends with Next.js.
-- 🧠 **AI/ML:** Currently diving deep into Machine Learning and Data Science to build "smarter" applications.
-- ❄️ **Philosophy:** Efficiency, code integrity, and scalability are the core of everything I build.
-- 🏔️ **Problem Solver:** I enjoy breaking down complex problems into clear, practical, and maintainable solutions.
-- 🏂 **Innovation:** Exploring how AI, data, and cloud infrastructure can work together in real products.
-- 🎿 **Continuous Learning:** Growing through research, hands-on projects, and open-source collaboration.
+- **Expertise:** Developing robust backends with NestJS and interactive frontends with Next.js.
+- **AI/ML:** Currently diving deep into Machine Learning and Data Science to build "smarter" applications.
+- **Philosophy:** Efficiency, code integrity, and scalability are the core of everything I build.
+- **Problem Solver:** I enjoy breaking down complex problems into clear, practical, and maintainable solutions.
+- **Innovation:** Exploring how AI, data, and cloud infrastructure can work together in real products.
+- **Continuous Learning:** Growing through research, hands-on projects, and open-source collaboration. -->
 
 <br clear="right" />
 
-<h3>✨ Featured Projects</h3>
+<!-- <h3>Featured Projects</h3>
 
 <div align="center">
   <a href="https://github.com/leapwithluvi/nexus-neural-orchestrator">
     <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=leapwithluvi&repo=nexus-neural-orchestrator&bg_color=0D1117&title_color=A2D2FF&text_color=BDE0FE&icon_color=CAF0F8&v=1" alt="Nexus AI" />
   </a>
-</div>
+</div> -->
 
-<h3>🎿 What I'm Building Toward</h3>
+<h3>What I'm Building Toward</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🏔️ Direction</strong>
+      <strong>Direction</strong>
       <ul>
         <li>Intelligent applications that connect data, models, and user needs</li>
         <li>High-performance system architectures and modular digital solutions</li>
@@ -66,7 +66,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>❄️ Current Focus</strong>
+      <strong>Current Focus</strong>
       <ul>
         <li>Advanced Web Security & Clean Architecture</li>
         <li>Machine learning integration and AI system design</li>
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<h3>🧊 Tech Glacier</h3>
+<h3>Tech</h3>
 
 <p align="center">
 <!-- Languages -->
@@ -116,7 +116,7 @@
   <img src="https://img.shields.io/badge/Kaggle-BDE0FE?style=for-the-badge&logo=kaggle&logoColor=0077B6&labelColor=FFFFFF" height="35" alt="Kaggle" />
 </p>
 
-<h3>❄️ Glacier Activity</h3>
+<h3>Activity</h3>
 
 <table align="center">
   <tr>
